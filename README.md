@@ -1,8 +1,10 @@
 **Project: Parkinson’s Disease Prediction**
 
-**Project Type: Health Prediction
-Technology Used: Jupyter Notebook, Python, Streamlit
-Deployment: Streamlit Web App**
+**Project Type: Health Prediction**
+
+**Technology Used: Jupyter Notebook, Python, Streamlit**
+
+**Deployment: Streamlit Web App**
 
 **Objective :**
 To develop a machine learning model that predicts whether a patient has Parkinson’s disease based on biomedical voice measurements.
