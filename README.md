@@ -1,4 +1,5 @@
 **Project: Parkinson’s Disease Prediction**
+
 **Project Type: Health Prediction
 Technology Used: Jupyter Notebook, Python, Streamlit
 Deployment: Streamlit Web App**
