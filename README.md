@@ -31,3 +31,7 @@ It contains biomedical voice measurements from patients with Parkinson’s and h
 - `spread1, spread2`: Frequency variation measures
 - `D2`: Signal complexity (correlation dimension)
 - `PPE`: Pitch Period Entropy
+
+**App Screenshot :**
+
+![App Screenshot](https://www.linkedin.com/posts/udhayaprabha-s-039aab26a_transforming-purpose-into-action-my-journey-activity-7346325767892496387-i3r1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEIDjG0BSi74DGhDP-rdbCDSLNyXfQBcvCE)
