@@ -1,13 +1,13 @@
 **Project: Parkinson’s Disease Prediction**
 
-**Objective**
+**Objective :**
 To develop a machine learning model that predicts whether a patient has Parkinson’s disease based on biomedical voice measurements.
 
-**Dataset Information**
+**Dataset Information :**
 The dataset used in this project is the **Parkinson’s Disease dataset** from the UCI Machine Learning Repository.  
 It contains biomedical voice measurements from patients with Parkinson’s and healthy controls.  
 
-**Columns**
+**Columns :**
 - `patient_id`: Unique identifier for each patient
 - `MDVP_Fo_Hz`: Average vocal fundamental frequency (Hz)
 - `MDVP_Fhi_Hz`: Maximum vocal fundamental frequency (Hz)
